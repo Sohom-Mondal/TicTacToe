@@ -1,7 +1,7 @@
 {
   "name": "tictactoe",
   "version": "1.0.0",
-  "description": "Simple tic tac toe game based on javascript logic.",
+  "description": "Simple tic tac toe game based on javascript logics.",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
