@@ -1,12 +1,12 @@
 {
   "name": "tictactoe",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple tic tac toe game based on javascript logic.",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sohom Mondal",
   "license": "ISC"
 }
